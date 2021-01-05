@@ -1,4 +1,4 @@
-This dashboard provides an overview of the Novel Coronavirus (COVID-19 / SARS-CoV-2) epidemic for Bulgaria and surrounding countries. This dashboard is built with R using the R Makrdown and flexdashboard framework and was adapted from this [dashboard](https://ramikrispin.github.io/coronavirus_dashboard/){target="_blank"} by Rami Krispin.
+This dashboard provides an overview of the Novel Coronavirus (COVID-19 / SARS-CoV-2) epidemic for Bulgaria and surrounding countries. This dashboard is built with R using the R Makrdown and flexdashboard framework and was adapted from the [dashboard](https://ramikrispin.github.io/coronavirus_dashboard/) of Rami Krispin.
 
 **Code**
 
