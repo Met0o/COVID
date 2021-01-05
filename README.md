@@ -2,7 +2,7 @@ This dashboard provides an overview of the Novel Coronavirus (COVID-19 / SARS-Co
 
 **Code**
 
-The code behind this dashboard is available on [GitHub](https://github.com/Met0o/COVID){target="_blank"} courtesy of [Antoine Soetewey](https://github.com/AntoineSoetewey){target="_blank"}.
+The code behind this dashboard is available on [GitHub](https://github.com/Met0o/COVID) courtesy of [Antoine Soetewey](https://github.com/AntoineSoetewey).
 
 **Packages**
 
