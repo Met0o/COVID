@@ -1,0 +1,18 @@
+"0","df
+"
+"1","function (x, df1, df2, ncp, log = FALSE) 
+"
+"1","{
+"
+"1","    if (missing(ncp)) 
+"
+"1","        .Call(C_df, x, df1, df2, log)
+"
+"1","    else .Call(C_dnf, x, df1, df2, ncp, log)
+"
+"1","}
+"
+"1","<bytecode: 0x000001aafe07fcd0>
+"
+"1","<environment: namespace:stats>
+"

@@ -1,0 +1,3 @@
+"0","balkan <- select(filter(coronavirus, country==(c(""Bulgaria"", ""Romania"", ""Greece"", ""North Macedonia""))))
+"
+"2","longer object length is not a multiple of shorter object length"
