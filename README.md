@@ -1,12 +1,14 @@
-This dashboard provides an overview of the Novel Coronavirus (COVID-19 / SARS-CoV-2) epidemic for Bulgaria and surrounding countries. This dashboard is built with R using the R Makrdown and flexdashboard framework and was adapted from the [dashboard](https://ramikrispin.github.io/coronavirus_dashboard/) of Rami Krispin.
+**The COVID-19 Dashboard**
+
+This dashboard provides an overview of the Novel Coronavirus (COVID-19 / SARS-CoV-2) epidemic for Bulgaria and its surrounding countries. This dashboard is built with R using the R Makrdown and flexdashboard framework and was adapted from the [dashboard](https://ramikrispin.github.io) of Rami Krispin, courtesy of [Antoine Soetewey](https://github.com/AntoineSoetewey).
 
 **Code**
 
-The code behind this dashboard is available on [GitHub](https://github.com/Met0o/COVID) courtesy of [Antoine Soetewey](https://github.com/AntoineSoetewey).
+The code for the dashboard is available on [GitHub](https://github.com/Met0o/COVID).
 
 **Packages**
 
-* Dashboard interface - [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) 
+* Dashboard interface - [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/)
 * Visualization - [plotly](https://plot.ly/r/)
 * Data manipulation - [dplyr](https://dplyr.tidyverse.org/), [tidyr](https://tidyr.tidyverse.org/), and [purrr](https://purrr.tidyverse.org/)
 * Mapping - [leaflet](https://rstudio.github.io/leaflet/) and [leafpop](https://github.com/r-spatial/leafpop)
